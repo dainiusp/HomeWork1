@@ -42,7 +42,7 @@ class Program
         Console.WriteLine("Ivestas vardas ir pavarde: " + value1);
 
         // ... Compute the uppercase strings.
-        Console.WriteLine("Sukonvertuotas vardas ir pavarde:");
+        Console.WriteLine("Sukonvertuotas vardas ir pavarde: ");
         Console.WriteLine(UppercaseWords(value1));
 
         Console.ReadKey();
